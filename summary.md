@@ -12,4 +12,4 @@ Python, Pandas, Matplotlib, Numpy, sk-learn
 * Курс Data Analysis with Python от IBM на Cognitive class 
 * Курс Scalable Machine Learning on Big Data using Apache Spark
 
-https://www.coursera.org/account/accomplishments/certificate/ZE8C6GMXJ2CD
+
